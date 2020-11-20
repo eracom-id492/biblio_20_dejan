@@ -1,6 +1,31 @@
-# bilblio_20
+# Titre du projet
 
-Ce dossier contiendra des informations concernant le site.
+Teste de programmation 1
 
-Ceci est un fichier  README avec la syntaxe Markdown baby
-https://cours-web.ch/divers/markdown/
+# Description
+
+1er projet de programmation avec évaluation. Le sujet porte sur les flexbox, Codepen et l'utilisation de GitHub
+
+# Fabriqué avec
+
+Template pris sur Codepen
+
+_exemples :_
+
+* https://codepen.io/collection/DOLBEQ/
+
+# Auteurs
+
+* Raphael Goetter https://codepen.io/raphaelgoetter
+
+# Programmation
+
+* Dejan Simonovski ID492
+
+# Remarques
+
+Cette flexbox est très interessante car elle permet de faire des catégories et des colonnes pour mieux hiérarchiser les éléments que l'on souhaite afficher.
+
+# Lien GitHub Pages
+
+https://eracom-id492.github.io/test_git_dsimonovski/
