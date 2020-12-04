@@ -1,10 +1,10 @@
 # Titre du projet
 
-Teste de programmation 1
+Menu rapide
 
 # Description
 
-1er projet de programmation avec évaluation. Le sujet porte sur les flexbox, Codepen et l'utilisation de GitHub
+Un menu de page web pour avoir une bonne organisation de sa page web et des repères pour aller dans la catégorie souhaitée
 
 # Fabriqué avec
 
@@ -12,11 +12,8 @@ Template pris sur Codepen
 
 _exemples :_
 
-* https://codepen.io/collection/DOLBEQ/
+*
 
-# Auteurs
-
-* Raphael Goetter https://codepen.io/raphaelgoetter
 
 # Programmation
 
@@ -24,8 +21,6 @@ _exemples :_
 
 # Remarques
 
-Cette flexbox est très interessante car elle permet de faire des catégories et des colonnes pour mieux hiérarchiser les éléments que l'on souhaite afficher.
+Une menu bien fait permet de mieux voyager dans la page web
 
 # Lien GitHub Pages
-
-https://eracom-id492.github.io/test_git_dsimonovski/
