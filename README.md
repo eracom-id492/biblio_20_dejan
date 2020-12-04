@@ -8,7 +8,7 @@ Une bibliothèque de plusieurs exemples des bases d'un site web
 
 # Fabriqué avec
 
-Template pris sur Codepen
+Template pris sur Codepen, font sur google font
 
 # Programmation
 
