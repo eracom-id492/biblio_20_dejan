@@ -8,11 +8,11 @@ Permet que le site soit responsive
 
 # Fabriqué avec
 
-Template pris sur Codepen
+Template pris sur w3 Schools
 
 _exemples :_
 
-* https://codepen.io/collection/DOLBEQ/
+* https://www.w3schools.com/css/tryit.asp?filename=trycss_mediaqueries_navbar
 
 
 # Programmation

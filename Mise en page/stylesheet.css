@@ -1,1 +1,67 @@
-
+* {
+  box-sizing: border-box;
+}
+html {
+  min-height: 100vh;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+/* -------- */
+main {
+  flex: 1 1 auto; /* reste de la hauteur */
+  display: flex;
+}
+main > section,
+main > aside {
+  flex: 1 1 auto;
+}
+/* -------- */
+/* PHONE */
+@media (max-width: 640px) {
+  main {
+    flex-direction: column;
+  }
+}
+/* -------- */
+/* TABLET - DESKTOP */
+@media (min-width: 641px) {
+  main {
+    flex-direction: row;
+  }
+  main > aside {
+    flex:0 0 15%;
+  }
+}
+/* -------- */
+/* Decoration */
+body {
+  margin: 0;
+  background: #999;
+  font-family: arial, sans-serif;
+}
+body > header,
+body > nav,
+main > aside,
+main > section,
+footer {
+  padding: 1em;
+}
+body > header {
+  background: #feb;
+}
+body > nav {
+  background: #ccf;
+}
+main > aside {
+  background: #ccf;
+}
+main > section {
+  background: #dd8;
+}
+body > footer {
+  background: #feb;
+}
+/* -------- */
