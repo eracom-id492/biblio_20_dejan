@@ -13,6 +13,7 @@ nav #close {
     display: none;
 }
 nav ul {
+    font-family: "Roboto";
     display: none;
     list-style-type: none;
     margin: 0;
